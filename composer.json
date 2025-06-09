@@ -21,7 +21,7 @@
         "php": ">=8.3",
         "oskarstark/enum-helper": "^1.5",
         "oskarstark/trimmed-non-empty-string": "^1.1",
-        "psr/log": "^3.0",
+        "psr/log": "^2.0 || ^3.0",
         "symfony/cache": "^7.0",
         "symfony/cache-contracts": "^3.5",
         "symfony/http-client": "^6.0 || ^7.0",
